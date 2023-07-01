@@ -1,0 +1,5 @@
+https://people.csail.mit.edu/sparis/bf_course/course_notes.pdf
+https://stackoverflow.com/questions/5000665/bilateral-filtering-with-color
+https://en.wikipedia.org/wiki/Bilateral_filter
+https://github.com/hemanthbd/Bilateral-Filter/blob/master/Bilateral_Filter/BilateralFilter.py
+https://github.com/ragjapk/bilateral_filter/blob/master/code/bilateral_color.py
